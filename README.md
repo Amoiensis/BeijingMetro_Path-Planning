@@ -10,13 +10,10 @@ Email:Amoiensis@outlook.com
 Data:2020.01.21
 ***************************************
 Automatic-Path-Planning for Metro based in Beijing's data.
-<<<<<<< HEAD
+
 ![image](https://github.com/Amoiensis/Beijing_Metro-Path-Planning/blob/master/picture/pic_demo1.JPG)
+
 =======
-
-![image](https://github.com/Amoiensis/Beijing_Metro-Path-Planning/blob/master/picture/pic1.JPG)
->>>>>>> 65264031a4e7a7ceb715131218dbda087488dc2c
-
 Details:
 
 · 使用方法：
