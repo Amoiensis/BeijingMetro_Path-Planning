@@ -1,0 +1,27 @@
+北京地铁 路线规划 (原始数据-说明)
+
+Beijing_Metro-Path-Planning (Data)
+---------------------------------------
+Author:YXP
+Email:Amoiensis@outlook.com
+Data:2020.02.05
+***************************************
+
+说明：
+	"initial.mat"文件，为Matlab数据格式文件。
+	其他格式需要，请和笔者取得联系。
+	包含内容如下：
+|         名称        |   大小  | 数据类型 |
+|:-------------------:|:-------:|:--------:|
+|       Distance      |  317x7  |   table  |
+|    Distance_data    |  317x4  |  double  |
+|     distancedata    | 276x276 |  double  |
+|       linedata      |   18x2  |   table  |
+| Station_information |  328x5  |   table  |
+|   Station_Position  |  356x7  |   table  |
+|     stationdata     |  328x4  |  double  |
+|    T_stationdata    |  328x5  |   table  |
+
+注意:
+	如果有其他格式需要，请和笔者取得联系。
+	所有数据仅仅限于学术研究用途，禁止用于其他目的！
