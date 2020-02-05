@@ -11,7 +11,7 @@ Data:2020.01.21
 ***************************************
 Automatic-Path-Planning for Metro based in Beijing's data.
 
-![image](https://github.com/Amoiensis/Beijing_Metro-Path-Planning/blob/master/picture/pic_demo1.JPG)
+![image](https://github.com/Amoiensis/Beijing-Metro-Path-Planning/blob/master/picture_%E5%BC%95%E7%94%A8%E5%9B%BE%E7%89%87/pic_demo1.JPG)
 
 =======
 Details:
